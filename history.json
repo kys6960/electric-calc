@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2026,
+    "month": 6,
+    "usage": 300,
+    "total_bill": 50778,
+    "tier": 2,
+    "saved_at": "2026-06-11 15:04"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "usage": 330,
+    "total_bill": 57824,
+    "tier": 2,
+    "saved_at": "2026-06-11 15:05"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "usage": 360,
+    "total_bill": 64872,
+    "tier": 2,
+    "saved_at": "2026-06-11 15:05"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "usage": 310,
+    "total_bill": 53126,
+    "tier": 2,
+    "saved_at": "2026-06-11 15:06"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "usage": 300,
+    "total_bill": 50778,
+    "tier": 2,
+    "saved_at": "2026-06-11 15:05"
+  },
+  {
+    "year": 2026,
+    "month": 11,
+    "usage": 290,
+    "total_bill": 48428,
+    "tier": 2,
+    "saved_at": "2026-06-11 15:05"
+  },
+  {
+    "year": 2026,
+    "month": 12,
+    "usage": 340,
+    "total_bill": 60174,
+    "tier": 2,
+    "saved_at": "2026-06-11 15:05"
+  }
+]
